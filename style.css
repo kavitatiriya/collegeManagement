@@ -1,0 +1,237 @@
+body	{
+		background:red;
+	}
+	.topmenuarea{
+		background-color:#B95752;
+		padding:10px 0 ;
+	}.topmenuarea p{
+		color:white;
+		text-align: center;
+	}
+	.topmenuarea p{
+		color:white ;
+		text-align: center;
+	}
+	.toparea{
+		background-color:#F2C38B;
+		padding: 50px 0;
+	}
+	.toparea h1{
+		color:green;
+		text-align: center;
+	}
+	.toparea h2{
+		color: red;
+		text-align: center;
+		font-size:20px;
+	}
+	.toparea img{
+		width: 101px;
+	}
+	.slidearea{
+		background-color:#FEFEFE ;
+		padding:40px 0 ;
+	}
+	.slidearea p1{
+		color: black;
+		text-align:center;
+		font-weight:50px;
+		padding: 10px;
+	}
+	.slidearea p2{
+		color: black;
+		text-align:center;
+
+	}
+	.slidearea p3{
+		color:black ;
+		text-align:center;
+	}
+	.slidearea p4{
+		color: black;
+		text-align:center;
+	}
+	.slidearea p5{
+		color: black;
+		text-align:center;
+	}
+	.slideareap6{
+		color: black;
+		text-align:center;
+	}
+	.nav-link{
+		color: red !important;
+		background-color: yellow;
+		font-size: 20px;
+	}
+	.darea{
+		background-color: #F7F5F6;
+		padding:40px 0 ;
+
+	}
+	.box{
+		margin: 20px;
+		padding: 20px;
+		transition: all 4s;
+		background-color: white;
+		text-align: center;
+		
+	}
+	.box img{
+		width: 80%;
+		transition: all 4s;
+
+	}
+	.box h2{
+		color:black;
+		font-size: 20px;
+	}
+	.box:hover img{
+		transform: rotate(360deg);
+	}
+	.row.heading h2 {
+		color: #fff;
+		font-size: 52.52px;
+		line-height: 95px;
+		font-weight: 400;
+		text-align: center;
+		margin: 0 0 40px;
+		padding-bottom: 20px;
+		text-transform: uppercase;
+	}
+	ul{
+	  margin:0;
+	  padding:0;
+	  list-style:none;
+	}
+	.heading.heading-icon {
+		display: block;
+	}
+	.padding-lg {
+		display: block;
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.practice-area.padding-lg {
+		padding-bottom: 55px;
+		padding-top: 55px;
+	}
+	.practice-area .inner{ 
+		 border:1px solid #999999; 
+		 text-align:center; 
+		 margin-bottom:28px; 
+		 padding:40px 25px;
+	}
+	.our-webcoderskull .cnt-block:hover {
+		box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+		border: 0;
+	}
+	.practice-area .inner h3{ 
+		color:#3c3c3c; 
+		font-size:24px; 
+		font-weight:500;
+		font-family: 'Poppins', sans-serif;
+		padding: 10px 0;
+	}
+	.practice-area .inner p{ 
+		font-size:14px; 
+		line-height:22px; 
+		font-weight:400;
+	}
+	.practice-area .inner img{
+		display:inline-block;
+	}
+	
+	
+	.our-webcoderskull{
+	  background: url("2.jpg") no-repeat center top / cover;
+	  
+	}
+	.our-webcoderskull .cnt-block{ 
+	   float:left; 
+	   width:100%; 
+	   background:blue; 
+	   padding:30px 20px; 
+	   text-align:center; 
+	   border:2px solid #d5d5d5;
+	   margin: 0 0 28px;
+	}
+	.our-webcoderskull .cnt-block figure{
+	   width:148px; 
+	   height:148px; 
+	   border-radius:100%; 
+	   display:inline-block;
+	   margin-bottom: 15px;
+	}
+	.our-webcoderskull .cnt-block img{ 
+	   width:148px; 
+	   height:148px; 
+	   border-radius:100%; 
+	}
+	.our-webcoderskull .cnt-block h3{ 
+	   color:#2a2a2a; 
+	   font-size:20px; 
+	   font-weight:500; 
+	   padding:6px 0;
+	   text-transform:uppercase;
+	}
+	.our-webcoderskull .cnt-block h3 a{
+	  text-decoration:none;
+		color:#2a2a2a;
+	}
+	.our-webcoderskull .cnt-block h3 a:hover{
+		color:#337ab7;
+	}
+	.our-webcoderskull .cnt-block p{ 
+	   color:#2a2a2a; 
+	   font-size:13px; 
+	   line-height:20px; 
+	   font-weight:400;
+	}
+	.our-webcoderskull .cnt-block .follow-us{
+		margin:20px 0 0;
+	}
+	.our-webcoderskull .cnt-block .follow-us li{ 
+		display:inline-block; 
+		width:auto; 
+		margin:0 5px;
+	}
+	.our-webcoderskull .cnt-block .follow-us li .fa{ 
+	   font-size:24px; 
+	   color:#767676;
+	}
+	.our-webcoderskull .cnt-block .follow-us li .fa:hover{ 
+	   color:#025a8e;
+	}
+	
+	.footer{
+		background-color:#1B1B1B ;
+		padding:10px 0 ;
+	}
+	.footer h1{
+		color: white;
+		font-size: 30px;
+		border-right:solid 3px white;
+	}
+	.footer h2{
+		color:orange;
+		font-size:15px;
+	}
+	.footer li{
+		color:red;
+		font-size:15px;
+		transition: all 2s;
+		list-style: none;
+		font-family: 'Inter', sans-serif;
+	}
+	.footer li{
+		color: red;
+		
+	}
+	.footer li:hover{
+		transform:translatex(10px);
+	}
+	
+	
+	
+	
